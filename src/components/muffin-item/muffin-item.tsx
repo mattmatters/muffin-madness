@@ -11,7 +11,7 @@ export class MuffinItem {
 
     render() {
         return (
-            <div class="muffin-item">
+            <div class="muffin-item grow">
                 <h3 class="muffin-item__name">{ this.name }</h3>
             </div>
         );
