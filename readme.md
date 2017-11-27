@@ -2,7 +2,7 @@
 <p align="center"><img src="https://media.giphy.com/media/wSXTGLPDGJmkU/giphy.gif" width="360"></p>
 <p align="center">
   <a href="https://travis-ci.org/mattmatters/muffin-madness"><img src="https://travis-ci.org/mattmatters/duck.svg?branch=master" alt="Build Status" /></a>
-  <a href="https://codeclimate.com/github/mattmatters/muffin-madness/maintainability"><img src="https://api.codeclimate.com/v1/badges/05e171eb9300bb2cfb42/maintainability" /></a>
+  <a href="https://codeclimate.com/github/mattmatters/muffin-madness/maintainability"><img src="https://api.codeclimate.com/v1/badges/dbe9100bb39d05f481e6/maintainability" /></a>
   <a href="https://david-dm.org/mattmatters/muffin-madness"><img src="https://david-dm.org/mattmatters/muffin-madness.svg"></a>
 </a>
 <p align="center">
