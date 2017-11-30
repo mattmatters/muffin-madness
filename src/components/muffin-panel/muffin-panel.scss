@@ -7,3 +7,56 @@
     flex-wrap: wrap;
     padding-left: 0px;
 }
+
+.muffin-item__name {
+    text-align: center;
+    position: relative;
+    top: 45%;
+    color: #fff;
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;
+
+}
+
+.muffin-item {
+    background-image: url("/assets/icon/cupcake.gif");
+    background-size: 100%;
+    height: 15em;
+    width: 15em;
+}
+
+.blueberry {
+    background-image: url("/assets/blueberry.png");
+}
+
+.poppyseed {
+    background-image: url("/assets/poppyseed.png");
+}
+
+.pumpkin {
+    background-image: url("/assets/pumpkin.png");
+}
+
+.chocolate {
+    background-image: url("/assets/chocolate.png");
+}
+
+.grow {
+    display: inline-block;
+    vertical-align: middle;
+    transform: translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    backface-visibility: hidden;
+    -moz-osx-font-smoothing: grayscale;
+    transition-duration: 0.3s;
+    transition-property: transform;
+}
+
+.grow:hover,
+.grow:focus,
+.grow:active {
+    transform: scale(1.1);
+}
