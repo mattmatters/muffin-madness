@@ -38,37 +38,6 @@ declare global {
 
 
 import {
-  MuffinItem as MuffinItem
-} from './components/muffin-item/muffin-item';
-
-declare global {
-  interface HTMLMuffinItemElement extends MuffinItem, HTMLElement {
-  }
-  var HTMLMuffinItemElement: {
-    prototype: HTMLMuffinItemElement;
-    new (): HTMLMuffinItemElement;
-  };
-  interface HTMLElementTagNameMap {
-    "muffin-item": HTMLMuffinItemElement;
-  }
-  interface ElementTagNameMap {
-    "muffin-item": HTMLMuffinItemElement;
-  }
-  namespace JSX {
-    interface IntrinsicElements {
-      "muffin-item": JSXElements.MuffinItemAttributes;
-    }
-  }
-  namespace JSXElements {
-    export interface MuffinItemAttributes extends HTMLAttributes {
-      
-        name?: string
-    }
-  }
-}
-
-
-import {
   MuffinPanel as MuffinPanel
 } from './components/muffin-panel/muffin-panel';
 

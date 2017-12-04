@@ -18,11 +18,12 @@
         1px -1px 0 #000,
         -1px 1px 0 #000,
         1px 1px 0 #000;
-
 }
 
 .muffin-item {
     background-image: url("/assets/icon/cupcake.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
     background-size: 100%;
     height: 15em;
     width: 15em;

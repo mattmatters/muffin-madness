@@ -30,15 +30,6 @@ export class MuffinPanel {
                             <h3 class="muffin-item__name">Pumpkin</h3>
                         </div>
                     </li>
-
-                    <li class="muffin-item__list-item"><muffin-item name="Cornbread" /></li>
-                    <li class="muffin-item__list-item"><muffin-item name="Rasberry" /></li>
-                    <li class="muffin-item__list-item"><muffin-item name="Pistachio" /></li>
-                    <li class="muffin-item__list-item"><muffin-item name="Blackberry" /></li>
-                    <li class="muffin-item__list-item"><muffin-item name="Orange" /></li>
-                    <li class="muffin-item__list-item"><muffin-item name="Walnut" /></li>
-                    <li class="muffin-item__list-item"><muffin-item name="Hell" /></li>
-                    <li class="muffin-item__list-item"><muffin-item name="Almond" /></li>
                 </ul>
             </section>
         );
