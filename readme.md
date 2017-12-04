@@ -36,3 +36,7 @@ npm test
 # To run the unit tests and watch for file changes during development, run:
 npm run test.watch
 ```
+
+## Disclaimer
+This was a basic test of the [Stencil Framework](https://stenciljs.com/). It has some promise, but the non-existent documentation and poor error
+feed back led me to abandon doing any complicated templating.  So this is finished as is.
