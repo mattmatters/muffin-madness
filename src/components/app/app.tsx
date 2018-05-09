@@ -1,5 +1,5 @@
-import { Component, Prop } from '@stencil/core';
-
+import { Component } from '@stencil/core';
+import '@stencil/router';
 
 @Component({
     tag: 'app-container',
